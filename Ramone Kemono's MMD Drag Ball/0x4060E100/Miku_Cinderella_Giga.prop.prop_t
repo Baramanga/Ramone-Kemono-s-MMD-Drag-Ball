@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton
+texts animButtonTooltip
+	"Cinderella (Giga First Night Remix) | Skeleton: sour暄 | Motion: porushi"
+end
+key editorPlayAnimButtonIcon legkick_icon
+key editorPlayAnimName Miku_Cinderella_Giga

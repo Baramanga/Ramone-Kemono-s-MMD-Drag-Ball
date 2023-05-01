@@ -1,0 +1,89 @@
+anim Miku_Cinderella_Giga "Miku Cinderella Giga"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_Cinderella_Giga"
+	end
+end
+
+anim Miku_CantStopTheFeeling_camera "Miku CantStopTheFeeling camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_CantStopTheFeeling_camera"
+	end
+end
+
+anim Miku_AWayOfLife_camera "Miku AWayOfLife camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_AWayOfLife_camera"
+	end
+end
+
+anim Miku_OtomeKaibou_camera "Miku OtomeKaibou camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_OtomeKaibou_camera"
+	end
+end
+
+anim Miku_PrimaryStar_camera "Miku PrimaryStar camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_PrimaryStar_camera"
+	end
+end
+
+anim Miku_CH4NGE_camera "Miku CH4NGE camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_CH4NGE_camera"
+	end
+end
+
+anim RayMorris_AngelWing_camera "RayMorris AngelWing camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "RayMorris_AngelWing_camera"
+	end
+end
+
+anim Miku_Hiasobi_camera "Miku Hiasobi camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_Hiasobi_camera"
+	end
+end
+
+anim Miku_Satisfaction_camera "Miku Satisfaction camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_Satisfaction_camera"
+	end
+end
