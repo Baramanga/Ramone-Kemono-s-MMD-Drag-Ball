@@ -1,0 +1,10 @@
+uint32 codec 5
+float gain 2
+float maxdistance 200
+float mindistance 150
+key musicTemplate _ep1_sfx_base
+uint32 polyphony 1
+keys samples
+	Satisfaction
+end
+key 0x07F28ACC steal
