@@ -1,6 +1,0 @@
-keys editorAnimInfo
-	MAVE_Pandora_camera
-	KDA_MORE_camera
-end
-key editorAnimPanelIcon rupaul_icon
-int32 editorAnimPanelOrder 12
