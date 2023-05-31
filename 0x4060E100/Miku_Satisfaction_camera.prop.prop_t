@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton
+texts animButtonTooltip
+	"Satisfaction (by kz/livetune) |  motion,camera:apr | Effect Inspiration:TheSodaWave"
+end
+key editorPlayAnimButtonIcon legkick_icon
+key editorPlayAnimName Miku_Satisfaction_camera

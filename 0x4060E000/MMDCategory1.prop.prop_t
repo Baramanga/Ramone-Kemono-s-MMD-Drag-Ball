@@ -1,0 +1,10 @@
+keys editorAnimInfo
+	Miku_Cinderella_Giga
+	Miku_CantStopTheFeeling_camera
+	Miku_AWayOfLife_camera
+	Miku_OtomeKaibou_camera	
+	Miku_PrimaryStar_camera
+	Miku_CH4NGE_camera
+end
+key editorAnimPanelIcon rupaul_icon
+int32 editorAnimPanelOrder 11
