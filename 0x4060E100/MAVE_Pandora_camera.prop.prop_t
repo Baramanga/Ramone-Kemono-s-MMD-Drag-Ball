@@ -1,6 +1,0 @@
-key parent 0x4060E100!RamoneButton
-texts animButtonTooltip
-	"MAVE Pandora CupcakKe Remix(Ranvision) | motion+camera:Natsumi San"
-end
-key editorPlayAnimButtonIcon legkick_icon
-key editorPlayAnimName MAVE_Pandora_camera

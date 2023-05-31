@@ -1,6 +1,0 @@
-key parent 0x4060E100!RamoneButton
-texts animButtonTooltip
-	"Primary Star (by Reno) | motion:mobiusP | camera:TheSodaWave"
-end
-key editorPlayAnimButtonIcon legkick_icon
-key editorPlayAnimName Miku_PrimaryStar_camera
