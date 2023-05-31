@@ -1,8 +1,0 @@
-key editorButtonImageActive RamoneActiveTint
-key editorButtonImageDisabled YDisable
-key editorButtonImageHighlighted RamoneHighTint
-key editorButtonImageNormal RamoneNormalTint
-uint32 0x0703212D 0xffffc889
-uint32 0x070338DB 0xffffb832
-uint32 0x070338E4 0xffffd468
-uint32 0x070338E9 0xffffd665

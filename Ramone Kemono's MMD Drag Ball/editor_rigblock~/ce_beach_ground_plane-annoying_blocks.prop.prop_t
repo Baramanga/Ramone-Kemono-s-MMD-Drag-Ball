@@ -1,6 +1,0 @@
-key parent models!DefaultTemplate.prop
-bboxs modelDefaultBoundingBox
-	(-13.7440147, -13.74401, -0.42877) (13.744009, 13.7440166, 9.1519413)
-end
-float modelDefaultBoundingRadius 21.4838066
-key modelMeshLOD0 ce_beach_ground_plane-annoying_blocks.0xF03CF95C

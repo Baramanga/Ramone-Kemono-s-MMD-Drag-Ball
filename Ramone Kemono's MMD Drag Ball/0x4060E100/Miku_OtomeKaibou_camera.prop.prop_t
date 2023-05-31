@@ -1,6 +1,0 @@
-key parent 0x4060E100!RamoneButton
-texts animButtonTooltip
-	"Otome Kaibou by DECO*27 | motion:YY | facials:SAIKI | camera:Ri2Pepper"
-end
-key editorPlayAnimButtonIcon legkick_icon
-key editorPlayAnimName Miku_OtomeKaibou_camera
