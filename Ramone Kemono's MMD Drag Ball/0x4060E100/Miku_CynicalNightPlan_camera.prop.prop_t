@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton
+texts animButtonTooltip
+	"CynicalNightPlan (by:Ayase/cover:ARAKI) | motion:リングイネ(Linguine) | camera:yukineko_0815"
+end
+key editorPlayAnimButtonIcon legkick_icon
+key editorPlayAnimName Miku_CynicalNightPlan_camera

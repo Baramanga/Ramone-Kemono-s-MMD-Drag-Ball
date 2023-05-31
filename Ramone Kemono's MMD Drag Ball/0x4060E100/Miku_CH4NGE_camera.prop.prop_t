@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton
+texts animButtonTooltip
+	"CH4NGE (by Giga) | motion:mobiusP | camera:TheSodaWave"
+end
+key editorPlayAnimButtonIcon legkick_icon
+key editorPlayAnimName Miku_CH4NGE_camera
