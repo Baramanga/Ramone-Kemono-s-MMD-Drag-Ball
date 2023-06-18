@@ -88,13 +88,13 @@ anim Miku_Satisfaction_camera "Miku Satisfaction camera"
 	end
 end
 
-anim Miku_CynicalNightPlan_camera "Miku CynicalNightPlan camera"
+anim ARAKI_CynicalNightPlan_camera "ARAKI CynicalNightPlan camera"
 	endMode 0
 	allowLocomotion false
 	priorityOverride 0
 
 	choice -probability 1
-		animation "Miku_CynicalNightPlan_camera"
+		animation "ARAKI_CynicalNightPlan_camera"
 	end
 end
 
@@ -115,5 +115,45 @@ anim MAVE_Pandora_camera "MAVE Pandora camera"
 
 	choice -probability 1
 		animation "MAVE_Pandora_camera"
+	end
+end
+
+anim GIDLE_NXDE_camera "GIDLE NXDE camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "GIDLE_NXDE_camera"
+	end
+end
+
+anim NAYEON_POP_camera "NAYEON POP camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "NAYEON_POP_camera"
+	end
+end
+
+anim KDA_POPSTAR_camera "KDA POPSTAR camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "KDA_POPSTAR_camera"
+	end
+end
+
+anim YOASOBI_IDOL_camera "YOASOBI IDOL camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "YOASOBI_IDOL_camera"
 	end
 end
