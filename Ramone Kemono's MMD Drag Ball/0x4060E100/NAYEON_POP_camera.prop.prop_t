@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton
+texts animButtonTooltip
+	"NAYEON POP + CupcakKe/Shenseea Remix(Ranvision) | motion+camera:Natsumi-san"
+end
+key editorPlayAnimButtonIcon legkick_icon
+key editorPlayAnimName NAYEON_POP_camera

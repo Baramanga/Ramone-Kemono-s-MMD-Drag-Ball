@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton
+texts animButtonTooltip
+	"K/DA - POPSTAR + CupcakKe Remix(Ranvision) | motion+camera:2TIGers"
+end
+key editorPlayAnimButtonIcon legkick_icon
+key editorPlayAnimName KDA_POPSTAR_camera

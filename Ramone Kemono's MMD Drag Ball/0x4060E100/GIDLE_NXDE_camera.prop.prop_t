@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton
+texts animButtonTooltip
+	"G(I)_DLE Nxde + CupcakKe Remix(Ranvision) | motion+camera:ren"
+end
+key editorPlayAnimButtonIcon legkick_icon
+key editorPlayAnimName GIDLE_NXDE_camera

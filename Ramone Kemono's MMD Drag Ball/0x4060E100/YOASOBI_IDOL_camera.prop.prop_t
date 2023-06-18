@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton
+texts animButtonTooltip
+	"YOASOBI - IDOL | motion:boluodesu | camera:_1upus_"
+end
+key editorPlayAnimButtonIcon legkick_icon
+key editorPlayAnimName YOASOBI_IDOL_camera#YOASOBI_IDOL_camera
