@@ -1,5 +1,5 @@
 uint32 codec 5
-float gain 2
+float gain 2.6
 float maxdistance 200
 float mindistance 150
 key musicTemplate _ep1_sfx_base
