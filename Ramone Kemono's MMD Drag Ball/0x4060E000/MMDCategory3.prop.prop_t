@@ -1,6 +1,9 @@
 keys editorAnimInfo
-	MAVE_Pandora_camera
+	KDA_POPSTAR_camera
 	KDA_MORE_camera
+	MAVE_Pandora_camera
+	GIDLE_NXDE_camera
+	NAYEON_POP_camera
 end
 key editorAnimPanelIcon rupaul_icon
-int32 editorAnimPanelOrder 12
+int32 editorAnimPanelOrder 13

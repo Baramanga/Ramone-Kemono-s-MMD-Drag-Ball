@@ -2,7 +2,8 @@ keys editorAnimInfo
 	RayMorris_AngelWing_camera
 	Miku_Hiasobi_camera
 	Miku_Satisfaction_camera
-	Miku_CynicalNightPlan_camera
+	ARAKI_CynicalNightPlan_camera
+	YOASOBI_IDOL_camera
 end
 key editorAnimPanelIcon rupaul_icon
 int32 editorAnimPanelOrder 12
