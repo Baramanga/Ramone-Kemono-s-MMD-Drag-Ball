@@ -1,0 +1,6 @@
+key parent 0x4060E100!RamoneButton
+texts animButtonTooltip
+	"EXID - UP&DOWN + CupcakKe Remix(miniorite) | motion+camera:Sewelina"
+end
+key editorPlayAnimButtonIcon legkick_icon
+key editorPlayAnimName EXID_UpDown_camera

@@ -157,3 +157,23 @@ anim YOASOBI_IDOL_camera "YOASOBI IDOL camera"
 		animation "YOASOBI_IDOL_camera"
 	end
 end
+
+anim EXID_UpDown_camera "EXID UpDown camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "EXID_UpDown_camera"
+	end
+end
+
+anim Miku_KimagureMercy_camera "Miku KimagureMercy camera"
+	endMode 0
+	allowLocomotion false
+	priorityOverride 0
+
+	choice -probability 1
+		animation "Miku_KimagureMercy_camera"
+	end
+end

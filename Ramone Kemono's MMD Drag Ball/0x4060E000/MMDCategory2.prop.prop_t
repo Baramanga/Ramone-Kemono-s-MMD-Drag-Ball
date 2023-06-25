@@ -4,6 +4,7 @@ keys editorAnimInfo
 	Miku_Satisfaction_camera
 	ARAKI_CynicalNightPlan_camera
 	YOASOBI_IDOL_camera
+	Miku_KimagureMercy_camera
 end
 key editorAnimPanelIcon rupaul_icon
 int32 editorAnimPanelOrder 12
