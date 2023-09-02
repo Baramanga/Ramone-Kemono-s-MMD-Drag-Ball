@@ -1,6 +1,6 @@
 key parent 0x4060E100!RamoneButton
 texts animButtonTooltip
-	"Angel Wings (A4,cover by Ray Morris) | motion:Kotcha(こっちゃ) | facial+camera:HanaMMD"
+	"Angel Wings (A4,cover by Ray Morris) | facial+motion:nai0202 | camera:HanaMMD+miiiiina_102"
 end
 key editorPlayAnimButtonIcon legkick_icon
 key editorPlayAnimName RayMorris_AngelWing_camera
