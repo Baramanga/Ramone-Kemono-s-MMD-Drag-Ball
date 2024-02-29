@@ -1,4 +1,4 @@
-# Ramone-Kemono-s-MMD-Drag-Ball
+# Ramone Kemono's MMD Drag Ball
 The most advanced Spore MMD dance mod to date (05-2023)
 
 Credits of the motion and audio resources are in the files and is displayed in the mods. Big thanks to @I-am-thedragon for their wonderous work with all the graphical assets used the dance effects!
