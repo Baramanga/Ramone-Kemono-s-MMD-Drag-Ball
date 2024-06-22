@@ -9,8 +9,12 @@ Assets used:
 Annoyign Stage: https://bowlroll.net/file/243036
 
 Thanks to the amazing @i-am-thedragon for their tireless works with importing, adjusting and creating the textures and meshes used in this project! Follow them here for their other works and art!
+
 https://github.com/I-am-thedragon/
+
 https://i-am-thedragon.tumblr.com/
+
+
 
 Note of usage:
 - If you want yo interrupt a dance, you need to interrupt the animation first, instead of interrupting by switching to Edit or Paint mode. If you do the latter, the Camera will malfunction and to fix that you need to go to Test Drive (the camera will glitch out), go to Paint mode again and then to Test Drive Again
