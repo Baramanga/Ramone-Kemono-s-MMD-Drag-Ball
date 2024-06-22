@@ -24,7 +24,7 @@ Credits of the motion and audio resources are in the files and is displayed in t
 Assets used:
 Annoying Stage: https://bowlroll.net/file/243036
 
-Thanks to the amazing @i-am-thedragon for her tireless works with importing, adjusting and creating the textures and meshes used in this project! Follow them here for their other works and art!
+Thanks to the amazing @i-am-thedragon for her tireless works with importing, adjusting and creating the textures and meshes used in this project! Follow her here for her other works and art!
 
 https://github.com/I-am-thedragon/
 
