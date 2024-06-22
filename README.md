@@ -35,9 +35,11 @@ https://i-am-thedragon.tumblr.com/
 
 Instruction: 
 - To get started with the mod you can use the creature pngs provided to use the camera motions, the mod you'll need to import it:
-- To add the ability to use the camera motion on your own creature of choice, follow this instruction: ![image](https://github.com/Baramanga/Ramone-Kemono-s-MMD-Drag-Ball/assets/71797097/2ac73dc5-5908-41cf-8d40-1597a2b10848)
+- To add the ability to use the camera motion on your own creature of choice, follow this instruction to add the "camera mount" on your creature: ![image](https://github.com/Baramanga/Ramone-Kemono-s-MMD-Drag-Ball/assets/71797097/2ac73dc5-5908-41cf-8d40-1597a2b10848)
   If you want a type of invisible limb that isn't from Dark Injection, use these: [Creature Leaves](http://davoonline.com/phpBB3/viewtopic.php?f=125&t=9467), [Branching Evolution](http://davoonline.com/phpBB3/viewtopic.php?t=5449)
-
+  The spiral shaped branch turn invisible if you shrink it small enough
+  The more segments/longer limbs you have for the invisible limbs, the further the "reach" of the camera, and vice versa. Play around and see what suits you best!
+- Without the "camera mount" construction, your creature wouldn't be able to use the camera motion, although you'll still be able to see the animation and the effects. However, the mod will assume any horn(weapon) part on the lower half of your creature at the bottom most position in the middle symmetry plane to be the camera, and will try to use it as such.
 
 
 Note of usage
