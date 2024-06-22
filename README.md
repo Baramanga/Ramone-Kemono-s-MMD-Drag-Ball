@@ -26,6 +26,7 @@ Credits of the motion and audio resources are in the files and is displayed in t
 - YOASOBI - IDOL | motion:boluodesu | camera:_1upus_/Hina | asset:I_am_THEdragon | effect:RamoneKemono
 
 Assets used:
+
 Annoying Stage: https://bowlroll.net/file/243036
 
 Bone parts: https://davoonline.com/phpBB3/viewtopic.php?t=9416
