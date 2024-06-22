@@ -1,4 +1,4 @@
-key parent 0x4060E100!RamoneButton
+key parent 0x4060E100!RamonePinkButton
 texts animButtonTooltip
 	"Kimagure Mercy by HachioujiP | motion:iiCxmeron_MMD | camera+facial:seitsuki"
 end

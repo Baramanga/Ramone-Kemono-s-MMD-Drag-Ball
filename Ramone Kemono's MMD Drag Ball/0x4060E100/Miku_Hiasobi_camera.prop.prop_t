@@ -1,6 +1,6 @@
-key parent 0x4060E100!RamoneButton
+key parent 0x4060E100!RamonePurpleButton
 texts animButtonTooltip
-	"Hiasobi / Play With Fire (by かめりあ/Camellia) | motion:mobiusP | camera:SvaliN | Effect Inspiration:TheSodaWave"
+	"Hiasobi / Play With Fire (by かめりあ/Camellia) | motion:mobiusP | camera:SvaliN | Effect Inspiration:TheSodaWave | asset:I_am_THEdragon | effect:RamoneKemono"
 end
 key editorPlayAnimButtonIcon legkick_icon
 key editorPlayAnimName Miku_Hiasobi_camera

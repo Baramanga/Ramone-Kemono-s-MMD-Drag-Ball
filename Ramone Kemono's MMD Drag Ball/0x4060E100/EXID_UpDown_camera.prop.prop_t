@@ -1,4 +1,4 @@
-key parent 0x4060E100!RamoneButton
+key parent 0x4060E100!RamoneRedButton
 texts animButtonTooltip
 	"EXID - UP&DOWN + CupcakKe Remix(miniorite) | motion+camera:Sewelina"
 end

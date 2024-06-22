@@ -1,0 +1,8 @@
+key editorButtonImageActive 0x341617E2#RamRedActive
+key editorButtonImageDisabled 0x0462618E#YDisable
+key editorButtonImageHighlighted 0x18BC42D8#RamRedHigh
+key editorButtonImageNormal 0x3F83E89D#RamRedNormal
+uint32 0x0703212D 0xffffc808#89
+uint32 0x070338DB 0xffffb809#32
+uint32 0x070338E4 0xffffd410#68
+uint32 0x070338E9 0xffffd611#65

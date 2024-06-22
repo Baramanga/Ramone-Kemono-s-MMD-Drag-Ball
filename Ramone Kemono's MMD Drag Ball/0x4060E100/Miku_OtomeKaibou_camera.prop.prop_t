@@ -1,6 +1,6 @@
-key parent 0x4060E100!RamoneButton
+key parent 0x4060E100!RamonePurpleButton
 texts animButtonTooltip
-	"Otome Kaibou by DECO*27 | motion:YY | facials:SAIKI | camera:Ri2Pepper"
+	"Otome Kaibou by DECO*27 | motion:YY | facials:SAIKI | camera:Ri2Pepper | asset:I_am_THEdragon | effect:RamoneKemono"
 end
 key editorPlayAnimButtonIcon legkick_icon
 key editorPlayAnimName Miku_OtomeKaibou_camera

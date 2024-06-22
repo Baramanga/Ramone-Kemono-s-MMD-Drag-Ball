@@ -1,6 +1,6 @@
-key parent 0x4060E100!RamoneButton
+key parent 0x4060E100!RamonePinkButton
 texts animButtonTooltip
-	"A Way of Life - Deep inside my mind Remix (acquired by Mx3)"
+	"A Way of Life - Deep inside my mind Remix | motion+camera:Seto"
 end
 key editorPlayAnimButtonIcon legkick_icon
 key editorPlayAnimName Miku_AWayOfLife_camera

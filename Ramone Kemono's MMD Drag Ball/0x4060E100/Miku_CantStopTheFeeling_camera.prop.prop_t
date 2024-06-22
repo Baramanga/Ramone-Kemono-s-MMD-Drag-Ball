@@ -1,6 +1,6 @@
-key parent 0x4060E100!RamoneButton
+key parent 0x4060E100!RamonePinkButton
 texts animButtonTooltip
-	"Can't Stop the Feeling! - Justin Timberlake (acquired by Mx3)"
+	"Can't Stop the Feeling! - Justin Timberlake | motion+camera:cSEHxWAGznL0Xjo"
 end
 key editorPlayAnimButtonIcon legkick_icon
 key editorPlayAnimName Miku_CantStopTheFeeling_camera
