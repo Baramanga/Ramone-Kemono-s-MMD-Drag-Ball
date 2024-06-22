@@ -22,7 +22,7 @@ Credits of the motion and audio resources are in the files and is displayed in t
 - YOASOBI - IDOL | motion:boluodesu | camera:_1upus_/Hina | asset:I_am_THEdragon | effect:RamoneKemono
 
 Assets used:
-Annoyign Stage: https://bowlroll.net/file/243036
+Annoying Stage: https://bowlroll.net/file/243036
 
 Thanks to the amazing @i-am-thedragon for their tireless works with importing, adjusting and creating the textures and meshes used in this project! Follow them here for their other works and art!
 
