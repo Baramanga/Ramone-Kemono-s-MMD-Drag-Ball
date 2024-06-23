@@ -53,6 +53,6 @@ Instruction:
 - Without the "camera mount" construction, your creature wouldn't be able to use the camera motion, although you'll still be able to see the animation and the effects. However, the mod will assume any horn(weapon) part on the lower half of your creature at the bottom most position in the middle symmetry plane to be the camera, and will try to use it as such.
 
 
-Note of usage
+Note of usage:
 - If you want to interrupt a dance, you need to interrupt the animation first, instead of interrupting by switching to Edit or Paint mode. If you do the latter, the Camera will malfunction and to fix that you need to go to Test Drive (the camera will glitch out), go to Paint mode again and then to Test Drive Again
 - All of these dances, camera motions and dance effects are meant to be for when the creature hasn't moved while in the test drive mode(not even spinning around). So if you moved the creature, go to paint mode, and then test drive again.
