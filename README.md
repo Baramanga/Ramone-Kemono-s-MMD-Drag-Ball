@@ -3,7 +3,7 @@ The most advanced Spore MMD dance animation mod to date (06-2024)
 
 This mod add 18 new MMD dance animations to your Creature Editor Test Drive, with 7 of which having special effects designed by me to give you the full experience! Allt he dances have camera motion imported into the game and work by moving a camera effect attached to a very tiny horn weapon parts mounted on a long multi-segmented invisible limb. It took me quite a long time to figure out how adjust the camera animation to translate it to Spore, given Spore has quite a number of quirks when it comes to animation and camera control.
 
-Check out the animation here:
+Check out the animation demo here:
 https://youtu.be/6jpHAsS8vzg?feature=shared
 
 Overall, I'm quite happy with how this turns out after a whole year of developing this mod and its gimmicks! Shoutout to all my Beta Testers, who helped me catch any mistakes during development and provided with useful feedbacks! And get ready too because I already finished importing all the animations to my second mod and it's now also open to Beta Testers!
