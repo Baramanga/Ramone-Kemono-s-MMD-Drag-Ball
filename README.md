@@ -1,10 +1,9 @@
 # Ramone Kemono's MMD Drag Ball
 The most advanced Spore MMD dance animation mod to date (06-2024)
 
-![Mod thumbnail](https://github.com/Baramanga/Ramone-Kemono-s-MMD-Drag-Ball/assets/71797097/58cde407-886f-406a-a862-7cd1f12b584d)
-
 This mod add 18 new MMD dance animations to your Creature Editor Test Drive, with 7 of which having special effects designed by me to give you the full experience! Allt he dances have camera motion imported into the game and work by moving a camera effect attached to a very tiny horn weapon parts mounted on a long multi-segmented invisible limb. It took me quite a long time to figure out how adjust the camera animation to translate it to Spore, given Spore has quite a number of quirks when it comes to animation and camera control.
 
+![Mod thumbnail](https://github.com/Baramanga/Ramone-Kemono-s-MMD-Drag-Ball/assets/71797097/58cde407-886f-406a-a862-7cd1f12b584d)
 
 Check out the animation preview here:
 https://youtu.be/6jpHAsS8vzg?feature=shared
