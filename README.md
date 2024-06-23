@@ -8,6 +8,8 @@ This mod add 18 new MMD dance animations to your Creature Editor Test Drive, wit
 Check out the animation preview here:
 https://youtu.be/6jpHAsS8vzg?feature=shared
 
+And to enhance the experience, especially with dance animations without effects, you should download the MMDbg mod here: https://github.com/Baramanga/MMDbg
+
 Overall, I'm quite happy with how this turns out after a whole year of developing this mod and its gimmicks! Shoutout to all my Beta Testers, who helped me catch any mistakes during development and provided with useful feedbacks! And get ready too because I already finished importing all the animations to my second mod and it's now also open to Beta Testers!
 
 Credits of the motion and audio resources are in the files and is displayed in the mods. Big thanks to @I-am-thedragon for their wonderous work with all the graphical assets used the dance effects!
