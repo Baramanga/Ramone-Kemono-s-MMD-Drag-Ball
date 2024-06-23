@@ -43,7 +43,7 @@ https://github.com/I-am-thedragon/
 https://i-am-thedragon.tumblr.com/
 
 
-Instruction: 
+##Instruction: 
 - To get started with the mod you can use the creature pngs provided to use the camera motions, the mod you'll need to import it: [Replicant](https://davoonline.com/phpBB3/viewtopic.php?t=9893)
 - To add the ability to use the camera motion on your own creature of choice, follow this instruction to add the "camera mount" on your creature: ![image](https://github.com/Baramanga/Ramone-Kemono-s-MMD-Drag-Ball/assets/71797097/2ac73dc5-5908-41cf-8d40-1597a2b10848)
   If you want a type of invisible limb that isn't from Dark Injection, use these: [Creature Leaves](http://davoonline.com/phpBB3/viewtopic.php?f=125&t=9467), [Branching Evolution](http://davoonline.com/phpBB3/viewtopic.php?t=5449). The spiral shaped branch turn invisible if you shrink it small enough.
@@ -53,6 +53,6 @@ Instruction:
 - Without the "camera mount" construction, your creature wouldn't be able to use the camera motion, although you'll still be able to see the animation and the effects. However, the mod will assume any horn(weapon) part on the lower half of your creature at the bottom most position in the middle symmetry plane to be the camera, and will try to use it as such.
 
 
-Note of usage:
+##Note of usage:
 - If you want to interrupt a dance, you need to interrupt the animation first, instead of interrupting by switching to Edit or Paint mode. If you do the latter, the Camera will malfunction and to fix that you need to go to Test Drive (the camera will glitch out), go to Paint mode again and then to Test Drive Again
 - All of these dances, camera motions and dance effects are meant to be for when the creature hasn't moved while in the test drive mode(not even spinning around). So if you moved the creature, go to paint mode, and then test drive again.
