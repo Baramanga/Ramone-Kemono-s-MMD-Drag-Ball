@@ -57,5 +57,5 @@ And follow me on [Twitter](https://x.com/RamoneKemono666), [Youtube](https://www
 
 
 ## Note of usage:
-- If you want to interrupt a dance, you need to interrupt the animation first, instead of interrupting by switching to Edit or Paint mode. If you do the latter, the Camera will malfunction and to fix that you need to go to Test Drive (the camera will glitch out), go to Paint mode again and then to Test Drive Again
-- All of these dances, camera motions and dance effects are meant to be for when the creature hasn't moved while in the test drive mode(not even spinning around). So if you moved the creature, go to paint mode, and then test drive again.
+- If you want to interrupt a dance, you need to interrupt the animation first, instead of interrupting by switching to Edit or Paint mode. If you do the latter, the Camera will malfunction and to fix that you need to go to Test Drive (the camera will glitch out), go to Paint mode again and then to Test Drive again.
+- All of these dances, camera motions and dance effects are meant to be for when the creature hasn't moved while in the test drive mode(not even spinning around). So if you moved the creature, go to paint mode, and then Test Drive again.
