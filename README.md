@@ -48,6 +48,10 @@ And follow me on [Twitter](https://x.com/RamoneKemono666), [Youtube](https://www
 
 ## Instruction: 
 - To get started with the mod you can use the creature pngs provided to use the camera motions, the mod you'll need to import it: [Replicant](https://davoonline.com/phpBB3/viewtopic.php?t=9893)
+
+![animation tester camera (beta)](https://github.com/Baramanga/Ramone-Kemono-s-MMD-Drag-Ball/assets/71797097/f3e99438-a0dd-4f15-a5f3-f625d00723fb)
+![standard mount tester camera](https://github.com/Baramanga/Ramone-Kemono-s-MMD-Drag-Ball/assets/71797097/0eb993eb-d9a1-4240-9c08-5832cf84c08c)
+
 - To add the ability to use the camera motion on your own creature of choice, follow this instruction to add the "camera mount" on your creature: ![image](https://github.com/Baramanga/Ramone-Kemono-s-MMD-Drag-Ball/assets/71797097/2ac73dc5-5908-41cf-8d40-1597a2b10848)
   If you want a type of invisible limb that isn't from Dark Injection, use these: [Creature Leaves](http://davoonline.com/phpBB3/viewtopic.php?f=125&t=9467), [Branching Evolution](http://davoonline.com/phpBB3/viewtopic.php?t=5449). The spiral shaped branch turn invisible if you shrink it small enough.
   
