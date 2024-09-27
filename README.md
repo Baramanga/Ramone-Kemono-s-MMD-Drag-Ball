@@ -3,6 +3,8 @@ The most advanced Spore MMD dance animation mod to date (06-2024)
 
 Big thanks to Mx3 for creating the first dance mods and provided much needed assitance with getting this project started! You can check out their old dance mod here: https://davoonline.com/phpBB3/viewtopic.php?t=9826
 
+Note: Since the particle effects and animations used in this mod is very intensive, please make sure you applied the 4GB path before hand, or it might affect your game's performance: https://www.davoonline.com/phpBB3/viewtopic.php?t=9424
+
 This mod add 18 new MMD dance animations to your Creature Editor Test Drive, with 7 of which having special effects designed by me to give you the full experience! All the dances have camera motion imported into the game and work by moving a camera effect attached to a very tiny horn weapon parts mounted on a long multi-segmented invisible limb. It took me quite a long time to figure out how adjust the camera animation to translate it to Spore, given Spore has quite a number of quirks when it comes to animation and camera control.
 
 ![Mod thumbnail](https://github.com/Baramanga/Ramone-Kemono-s-MMD-Drag-Ball/assets/71797097/58cde407-886f-406a-a862-7cd1f12b584d)
