@@ -48,7 +48,7 @@ https://github.com/I-am-thedragon/
 
 https://i-am-thedragon.tumblr.com/
 
-And follow me on [Twitter](https://x.com/RamoneKemono666), [Youtube](https://www.youtube.com/@RamoneKemono), and [Pixiv](pixiv.net/en/users/67440349) for more art and Spore modding updates!
+And follow me on [Twitter](https://x.com/RamoneKemono666), [Tumblr](https://www.tumblr.com/blog/ramonekemono), [Youtube](https://www.youtube.com/@RamoneKemono), and [Pixiv](pixiv.net/en/users/67440349) for more art and Spore modding updates!
 
 ## Instruction: 
 - To get started with the mod, you can use the creature pngs provided to use the camera motions. The mod you'll need to import it: [Replicant](https://davoonline.com/phpBB3/viewtopic.php?t=9893)
